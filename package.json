@@ -1,0 +1,21 @@
+{
+  "name": "stickets",
+  "version": "1.0.0",
+  "description": "Instagram bot for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "instagram"
+  ],
+  "author": "!Callum",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.24.0",
+    "user-instagram": "^1.0.4"
+  }
+}
